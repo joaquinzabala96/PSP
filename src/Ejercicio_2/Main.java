@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Ejercicio_2;
 import java.util.*;
 
@@ -31,3 +32,15 @@ public class Main {
 }
 
 }
+=======
+package Ejercicio_2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+>>>>>>> refs/remotes/origin/master
