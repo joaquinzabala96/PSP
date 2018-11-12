@@ -1,6 +1,6 @@
 
 package Ejercicio_2;
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
 
