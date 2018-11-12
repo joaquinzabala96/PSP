@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package Ejercicio_2;
 import java.util.*;
 
@@ -9,7 +9,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		String [] abc= {"A","B","C","D","E","F","G","H","I","J","K","L","M","N","Ñ","O","P","Q","R","S","T","U","V","W",
+		String [] abc= {"A","B","C","D","E","F","G","H","I","J","K","L","M","N","ï¿½","O","P","Q","R","S","T","U","V","W",
 				"X","Y","Z"};
 		
 		
@@ -31,16 +31,4 @@ public class Main {
 
 }
 
-}
-=======
-package Ejercicio_2;
 
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-}
->>>>>>> refs/remotes/origin/master
